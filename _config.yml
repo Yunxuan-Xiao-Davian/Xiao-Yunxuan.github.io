@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Guang Zhou China"
-title                    : "Xiao Yunxuan/ Davian"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Xiao Yunxuan"
-description              : &description "1st year Mphil Student"
-url                      : https://XiaoYunxuan12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Yunxuan-Xiao-Davian"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiao Yunxuan"
   avatar           : "images/Yunxuan.png"
-  bio              : "1st Year Mphil Student"
+  bio              : "1st year mphil student"
   location         : "Guangzhou"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :  "yxiao324@connect.hkust-gz.edu.cn"
+  googlescholar    :
+  email            : "yxiao324@connect.hkust-gz.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Yunxuan-Xiao-Davian"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
